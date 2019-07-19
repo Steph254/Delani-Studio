@@ -2,6 +2,8 @@
   background-image: url('../image/landing.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+}
+.landingpage{
   text-align: center;
   color: white;
   padding:200px 0px 200px 0px;
@@ -14,6 +16,7 @@
   font-weight: lighter;
 }
 #mouse{
-  padding-top:200px;
-  margin-bottom: 0px;
+  text-align: center;
+  padding-bottom: 20px
+  /* margin-left: 200px; */
 }
