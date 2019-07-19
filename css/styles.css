@@ -18,5 +18,8 @@
 #mouse{
   text-align: center;
   padding-bottom: 20px
-  /* margin-left: 200px; */
+}
+.aboutus{
+  text-align: center;
+  font-family:sans-serif;
 }
