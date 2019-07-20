@@ -70,3 +70,10 @@ body{
   color:white;
   background: transparent;
 }
+.social{
+  text-align: center;
+  padding-top:50px;
+}
+/* .social a:hover{
+background-color:white;
+} */
