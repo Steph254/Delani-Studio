@@ -56,7 +56,17 @@ body{
   color: white;
   font-weight: bold;
 }
-.wonger{
-  border: 5px solid white;
-
+.contact{
+  background-image: url('../image/machine.jpg');
+  color: white;
+  padding:100px 10px 20px 10px;
+  margin-top: 50px;
+  text-align: center;
+}
+/* .contact h1{
+  text-align: center;
+} */
+.input{
+  color:white;
+  background: transparent;
 }
