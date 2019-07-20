@@ -40,6 +40,30 @@ body{
   text-align: center;
   padding:20px 40px 20px 40px;
 }
+.what-we-do h6{
+  font-weight: bold;
+}
+#des{
+  display: none;
+  text-align: center;
+}
+.offer{
+  cursor:pointer;
+}
+#dev{
+  display: none;
+  text-align: center;
+}
+.prise{
+  cursor:pointer;
+}
+#prod{
+  display: none;
+  text-align: center;
+}
+.manage{
+  cursor:pointer;
+}
 #serv{
   padding:20px 30px 20px 30px;
 }
@@ -74,6 +98,6 @@ body{
   text-align: center;
   padding-top:50px;
 }
-/* .social a:hover{
-background-color:white;
-} */
+.right{
+  padding-top:40px;
+}
