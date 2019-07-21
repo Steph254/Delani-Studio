@@ -72,13 +72,13 @@ body{
   margin-right:10px;
   text-align: center;
 }
-#work{
+/* #work {
   background-image: url(../image/portfolio/work8.jpg);
   background-position: center;
-  margin:20px 15px 0px 15px;
-  padding:10px 10px 160px 10px;
+  margin: 20px 15px 0px 15px;
+  padding: 10px 10px 160px 10px;
   color: white;
-  font-weight: bold;
+  font-weight: bold; */
 }
 .contact{
   background-image: url('../image/machine.jpg');
@@ -100,4 +100,115 @@ body{
 }
 .right{
   padding-top:40px;
+}
+.title1{
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border:5px solid white;
+  padding: 20px 60px 20px 60px;
+}
+.title2{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border:5px solid white;
+  padding: 20px 60px 20px 60px;
+}
+.title3{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border:5px solid white;
+  padding: 20px 60px 20px 60px;
+}
+.title4{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border:5px solid white;
+  padding: 20px 60px 20px 60px;
+}
+.title5{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border:5px solid white;
+  padding: 20px 60px 20px 60px;
+}
+.title6{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border:5px solid white;
+  padding: 20px 60px 20px 60px;
+}
+.title7{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border:5px solid white;
+  padding: 20px 60px 20px 60px;
+}
+.title8{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border:5px solid white;
+  padding: 20px 60px 20px 60px;
 }
