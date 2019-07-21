@@ -7,8 +7,7 @@ This application provides more information about the Delani-Studio.It contains a
 It also gives a description on the design,development and product management of Delani-Studio.There is also a list of some projects that some of the software developers have
 done while at Delani-Studio.
 ## Setup/Installation Requirements
-To access this webpage just click on this link
-The langingpage should look like this once you load the page.
+To access this webpage just click on this link https://stephania-hp.github.io/Delani-Studio/
 To navigate through the page use the scroll tab to scroll down and up.To see the description under each icon in the What we do 
 section just click on each icon and you will be able to see the description.
 On the portfolio section just place the mouse on each image and you will be able to see the name of the project.
