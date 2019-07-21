@@ -4,6 +4,7 @@
       <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/styles.css" type="text/css">
     <title>Delani-Studio</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
   </head>
   <body>
       <div class="page">
@@ -63,10 +64,15 @@ This iterative process allows for changes as business requirements evolve.</p></
       <div class="PORTFOLIO">
         <div class="row">
           <div class="col-md-3">
+            <div id="work4">
             <img src="image/portfolio/work4.jpg" alt="blank image" class="container-fluid">
+             <div class="title1"><p>Delani-Studio</p></div></div>
           </div>
           <div class="col-md-3">
-            <img src="image/portfolio/work3.jpg" alt="work3" class="container-fluid">
+            <div id=work3>
+              <img src="image/portfolio/work3.jpg" alt="work3" class="container-fluid">
+               <div class="title1"><p>Delani-Studio</p></div>
+            </div>
           </div>
           <div class="col-md-3">
             <img src="image/portfolio/work2.jpg" alt="work2" class="container-fluid">
@@ -90,14 +96,16 @@ This iterative process allows for changes as business requirements evolve.</p></
             <p id="work">BAILEY<br>WONGER</p></span>
           </div>
         </div>
+      </div>
         <div class="contact">
           <h1>CONTACT US</h1>
-          <form class="details">
+          <form class="details" name="info" onsubmit="infoDetails()">
             <input type="text" name="fname" class="input"  value="Name..."style="width:400px;">
-            <input type="text" name="fname" class="input" value="Email..."style="width:400px;"><br><br>
+            <input type="text" name="email" class="input" value="Email..."style="width:400px;"><br><br>
             <textarea class="input" rows="10" cols="30" style="width:600px; height:400px;">
             Your message here...
-            </textarea>
+          </textarea><br><br>
+            <input type="submit" name="submit" value="submit" class="input">
           </form>
         </div>
         <div class="social">
@@ -116,8 +124,6 @@ This iterative process allows for changes as business requirements evolve.</p></
           </div>
 
         </div>
-
-    </div>
   </body>
   <script src=js/jquery-3.4.1.js></script>
   <script src=js/script.js></script>
