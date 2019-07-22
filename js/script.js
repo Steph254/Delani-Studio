@@ -4,15 +4,15 @@ $(document).ready(function() {
     $("#ign").toggle();
   });
 
-$(".prise").click(function() {
-  $("#dev").toggle();
-  $("#ment").toggle();
-});
-$(".manage").click(function() {
-  $("#uct").toggle();
-  $("#prod").toggle();
-});
-$(".work").mouseover(function() {
+  $(".prise").click(function() {
+    $("#dev").toggle();
+    $("#ment").toggle();
+  });
+  $(".manage").click(function() {
+    $("#uct").toggle();
+    $("#prod").toggle();
+  });
+  $(".work").mouseover(function() {
     $(this).find('.title').show();
   }).mouseout(function() {
     $(this).find('.title').hide();

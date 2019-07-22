@@ -1,103 +1,123 @@
-body{
+body {
   overflow-x: hidden;
 }
-.page{
+
+.page {
   background-image: url('../image/landing.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
-.landingpage{
+
+.landingpage {
   text-align: center;
   color: white;
-  padding:200px 0px 200px 0px;
-  font-family:sans-serif;
+  padding: 200px 0px 200px 0px;
+  font-family: sans-serif;
   font-size: 20px;
-  font-weight:100;
+  font-weight: 100;
 }
-.para{
+
+.para {
   font-size: 15px;
   font-weight: lighter;
 }
-#mouse{
+
+#mouse {
   text-align: center;
   padding-bottom: 20px
 }
-.aboutus{
+
+.aboutus {
   text-align: center;
-  font-family:sans-serif;
+  font-family: sans-serif;
   font-size: 20px;
 }
-.services{
+
+.services {
   background-image: url('../image/tech.jpg');
   background-size: cover;
   text-align: center;
   font-family: sans-serif;
   font-size: 20px;
-  color:white;
-  padding:200px 0px 200px 0px;
+  color: white;
+  padding: 200px 0px 200px 0px;
 }
-.what-we-do{
+
+.what-we-do {
   text-align: center;
-  padding:20px 40px 20px 40px;
+  padding: 20px 40px 20px 40px;
 }
-.what-we-do h6{
+
+.what-we-do h6 {
   font-weight: bold;
 }
-#des{
+
+#des {
   display: none;
-  text-align: center;
-}
-.offer{
-  cursor:pointer;
-}
-#dev{
-  display: none;
-  text-align: center;
-}
-.prise{
-  cursor:pointer;
-}
-#prod{
-  display: none;
-  text-align: center;
-}
-.manage{
-  cursor:pointer;
-}
-#serv{
-  padding:20px 30px 20px 30px;
-}
-.container-fluid{
-  margin-top:20px;
-  margin-right:10px;
   text-align: center;
 }
 
-.contact{
+.offer {
+  cursor: pointer;
+}
+
+#dev {
+  display: none;
+  text-align: center;
+}
+
+.prise {
+  cursor: pointer;
+}
+
+#prod {
+  display: none;
+  text-align: center;
+}
+
+.manage {
+  cursor: pointer;
+}
+
+#serv {
+  padding: 20px 30px 20px 30px;
+}
+
+.container-fluid {
+  margin-top: 20px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.contact {
   background-image: url('../image/machine.jpg');
   color: white;
-  padding:100px 10px 20px 10px;
+  padding: 100px 10px 20px 10px;
   margin-top: 50px;
   text-align: center;
 }
-.contact h1{
-text-align: center;
-}
-.input{
-  color:white;
-  background: transparent;
-}
-.social{
-  text-align: center;
-  padding-top:50px;
-}
-.right{
-  padding-top:40px;
+
+.contact h1 {
   text-align: center;
 }
 
-.title{
-  display:none;
+.input {
+  color: white;
+  background: transparent;
+}
+
+.social {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.right {
+  padding-top: 40px;
+  text-align: center;
+}
+
+.title {
+  display: none;
   color: white;
   font-size: 20px;
   font-weight: bold;
@@ -106,6 +126,6 @@ text-align: center;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  border:5px solid white;
+  border: 5px solid white;
   padding: 20px 60px 20px 60px;
 }
